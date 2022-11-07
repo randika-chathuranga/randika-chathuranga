@@ -1,5 +1,5 @@
-Hi, I'm Randika Chathuranga 🧔💻; I'm Undergraduate🎓 from Sabaragamuwa University Of Sri Lanka 😎
-  I'm a Student, Web Developer, and Volunteer!
+Hi, I'm Randika Chathuranga 🧔💻; I'm Undergraduate at [Sabaragamuwa University Of Sri Lanka](https://www.sab.ac.lk/)
+I'm a Student, Web Developer, and Volunteer!
 
 - 🔭 I’m currently working on my own and university evaluation projects 👍...
 - 🌱 I’m currently learning new technologies and updates about IT industry 🎯💻...
