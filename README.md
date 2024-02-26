@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as an intern at **X-Venture Global Solutions (Pvt) Ltd**
 
-- 🌱 I’m currently learning **Angular/Python/javascript/Typescript**
+- 🌱 I’m currently learning **Angular/javascript/Typescript**
 
 - 👯 I’m studying at **Faculty of Computing Sabaragamuwa University**
 
