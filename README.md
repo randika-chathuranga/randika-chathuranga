@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Randika Chathuranga</h1>
-<h3 align="center">I'm Undergraduate at Sabaragamuwa University Of Sri Lanka (https://www.sab.ac.lk/)</h3>
+<h3 align="center">Studied at Sabaragamuwa University Of Sri Lanka (https://www.sab.ac.lk/)</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQHSxx5X93l2zQ/feedshare-shrink_2048_1536/0/1660142294971?e=2147483647&v=beta&t=CnoW2xcLLKyXytdXHJ0cmuHpRpXMioanNi5hnh7B9q0">
