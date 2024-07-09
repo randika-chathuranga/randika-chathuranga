@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular/javascript/Typescript**
 
-- 👯 I’m studying at **Faculty of Computing Sabaragamuwa University**
+- 👯 Graduated from **Faculty of Computing Sabaragamuwa University**
 
 - 📫 How to reach me **randikachathuranga219@gmail.com**
 
